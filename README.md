@@ -1,5 +1,5 @@
 # Hi, I am Gülşah
-### Sofware Developer from Turkey
+### Software Developer from Istanbul
 
 ## 💫 About Me:
 I'm currently learning .Net Framework<br>How to reacth me: gulsharslan@gmail.com<br>Fun fact: I have two cats and one dog
