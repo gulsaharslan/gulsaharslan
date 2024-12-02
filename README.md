@@ -2,6 +2,8 @@
 ### Software Developer from Istanbul
 
 ## 💫 About Me:
+After graduating from Yıldız Technical University's Environmental Engineering department, my passion for software development led me to focus on C# and .NET technologies. Starting in January 2024, I am committed to advancing my career in this field, with a particular focus on becoming a .NET Developer. By combining the theoretical knowledge I have gained with the projects I have developed, I aim to continuously learn and contribute to the software industry.
+
 I'm currently learning .Net Framework<br>How to reacth me: gulsharslan@gmail.com<br>Fun fact: I have two cats and one dog
 
 
