@@ -4,15 +4,15 @@
 ## 💫 About Me:
 After graduating from Yıldız Technical University's Environmental Engineering department, my passion for software development led me to focus on C# and .NET technologies. Starting in January 2024, I am committed to advancing my career in this field, with a particular focus on becoming a .NET Developer. By combining the theoretical knowledge I have gained with the projects I have developed, I aim to continuously learn and contribute to the software industry.
 
-I'm currently learning .Net Framework<br>How to reacth me: gulsharslan@gmail.com<br>Fun fact: I have two cats and one dog
+<p align="left">📚 I'm currently learning : .Net<br><br>🎲 Fun fact: I have 2 cats and 1 dog :)</p>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g%C3%BCl%C5%9Fah-arslan) 
-
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-arslan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h2 align="left">Techs</h2>
 
@@ -52,6 +52,4 @@ I'm currently learning .Net Framework<br>How to reacth me: gulsharslan@gmail.com
 [![](https://visitcount.itsvg.in/api?id=gulsaharslan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
